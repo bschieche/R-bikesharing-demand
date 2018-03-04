@@ -18,4 +18,4 @@ A special focus of this notebook lies on feature engineering and ensemble learni
 
 For an improved view please use the following nbviewer URL:
 
-
+https://nbviewer.jupyter.org/github/bschieche/R-bikesharing-demand/blob/master/bikesharing-demand.ipynb
